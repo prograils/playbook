@@ -6,7 +6,7 @@ title: Home
 This is us, Prograils. This is how we work on our clients projects, to deliver top quality and security.
 
 1. Process and communication
-2. Development
+2. [Development](/playbook/development)
 3. Testing
 4. Deployment and production
 5. [Security](/playbook/security)
