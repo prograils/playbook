@@ -1,0 +1,25 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: false
+
+# Setup
+title:               Prograils playbook
+tagline:             'How we roll'
+description:         'All those tiny little infos that help us make better software'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+# paginate:            5
+# plugins:             [jekyll-paginate]
+
+# About/contact
+author:
+  name:              Prograils
+  url:               https://prograils.com
+  email:             contact@prograils.com
+
+baseurl:             '/playbook'
+
+# Custom vars
+version:             0.0.1
