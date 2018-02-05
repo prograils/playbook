@@ -21,6 +21,6 @@ Following those simple steps should ensure that data stays secure
 
 ## Software
 
-1. 2FA Auth must be turned off wherever this is possible, ensure, that you have turned it on for GSuite, GitHub, Bitbucket, Gitlab and other services we're using on a daily basis
+1. 2FA Auth must be turned on wherever this is possible, ensure, that you have turned it on for GSuite, GitHub, Bitbucket, Gitlab and other services we're using on a daily basis
 2. Computer must have auto-lock turned on, suggested timeout is 1 minute
 3. Use secure password manager, ie. [KeePassXC](https://keepassxc.org/)
