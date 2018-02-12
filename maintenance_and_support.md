@@ -3,10 +3,10 @@ layout: page
 title: Maintenance and Support
 ---
 
-## Monitoring ##
+### Monitoring:
 
-All our projects must be supported by error reporting tools. Our prefered choices tools are appsignal.com for rails applications and fabric.io for mobile apps. Error notifications are sent to every project member and the client.
+All our projects must be supported by error reporting tools. Our prefered choices tools are [Appsignal](https://appsignal.com){:target="_blank"}  for rails applications and [Fabric.io](https://fabric.io){:target="_blank"}  for mobile apps. Error notifications are sent to every project member and the client.
 
-## Uptime ##
+### Uptime:
 
 Bugs can be reported via any communication channel we’re using, they must be however officially placed on the development board in primary project management tool. Critical bugs should be fixed as soon as possible when noticed, with the understanding that ‘critical’ limits basic business functionalities.

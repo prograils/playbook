@@ -3,7 +3,12 @@ layout: default
 title: Home
 ---
 
-This is us, Prograils. This is how we work on our clients projects, to deliver top quality and security.
+### Hello, we are Prograils and this is our playbook: an overview of how our Software House operates.
+
+
+<br>
+
+Table of contents:
 
 
 1. [Chapter One: Who we are](/playbook/who_we_are)
