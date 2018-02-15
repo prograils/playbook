@@ -131,7 +131,7 @@ You have cloned repo with master, develop, production and staging branches
 1. Always keep Rails version up to date. Update to minor ASAP, to major - when possible.
 2. We're using HAML as templating language, SCSS and CoffeeScript. Erb templates are allowed in plain text emails only.
 3. Never assume, that localhost:3000 is default host:port for development. When you can, use \*.dev mapping (use invoker). When you need to use host in app, try to use `request.host_with_port`
-4. Readmes shoud be updated, edited with [markdown](http://daringfireball.net/projects/markdown/syntax)
+4. Readmes shoud be updated, edited with [markdown](http://daringfireball.net/projects/markdown/syntax). We should put there project specific technologies, how to run in development and to test the project. Good practice is to state browser compatibility requirements.
 5. To bootstrap app use [Prograils base app](https://bitbucket.org/prograils/base) whenever it's possible
 6. Basically Admin area is always required. If you can't use ActiveAdmin, use Twitter bootstrap as base layout for it.
 7. Code and docs should be written in english.
