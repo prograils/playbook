@@ -52,3 +52,9 @@ Table of contents:
 7. [Chapter Seven: The People](/playbook/the_people)
    1. The Team
    2. Recruitment
+   3. Career
+   4. Health
+   5. Our toys
+   6. Perks
+   7. Office
+   8. Self-development
