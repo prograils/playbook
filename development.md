@@ -185,10 +185,15 @@ Some of these gems are used in [base app](https://bitbucket.org/prograils/base){
 ### Code Responsibility: ###
 
 You’re responsible for every project you contributed to in last 12 months. This is important if in doubt who should install a critical update (Rails or from other lib). If you were participating and you’re still wondering who should do it, then just do it. Time is critical in such situations.
-Critical bugs should be fixed ASAP. Time of day does not matter in such cases. Critical bugs are those which affect basic business functionalities of application (e.g. impossibility to upload video in video-sharing app).
+Critical bugs should be fixed ASAP. Time of day does not matter in such cases. Critical bugs are those which affect basic business functionalities of application (e.g. impossibility to upload video in a video-sharing app).
 
 
-### Testing: ###
+### Tests: ###
+Developers are obliged to cover their code with automated tests before pushing any feature on a test server. Once a functionality is deployed, our testers are informed via a dedicated Slack channel (via @qa mention) to make the 2nd verification. The second verification is made by thorough manual tests. Our testers not only play the role of end users that comb through the app searching for bugs and unwanted behaviour (including validating feature(s) on all supported platforms and devices) but also validates delivered features with requirements. The 3rd and final approval is performed by the client. If there is still something that needs to be improved developers receive feedback: a list of issues in a corresponding Trello ticket which is moved back to a development stage and when ready, pushed through testing path once again.
+
+
+Our inside ‘rules’ regarding tests are:
+
 1. Do test. A lot
 2. All new features need to have full test coverage
 3. Unit and integration tests are most important

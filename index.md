@@ -39,7 +39,7 @@ Table of contents:
    2. Git Workflow
    3. Code Style
    4. Code Responsibility
-   5. Testing
+   5. Test
 
 5. [Chapter Five: Security](/playbook/security)
    1. Hardware
@@ -53,8 +53,9 @@ Table of contents:
    1. The Team
    2. Recruitment
    3. Career
-   4. Health
-   5. Our toys
-   6. Perks
-   7. Office
-   8. Self-development
+   4. Work environment
+   5. Health
+   6. Our toys
+   7. Perks
+   8. Office
+   9. Self-development
