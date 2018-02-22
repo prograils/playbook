@@ -19,7 +19,7 @@ What stands us out from the crowd are our values:
 
 **Quality:** we have high-quality standards in our work: it’s not about the numbers, it’s about the quality. If you want us to deliver something fast and cheap - for sure we are not a good fit for your business.
 
-**Transparency:** except for the sky, number 25 is the limit. Companies with a growth tend to lose track of what’s going on. That’s why, to avoid chaos, we’ve decided not to hire more than 25 employees. We don’t want to create corporate structures with teams within the teams. Everyone is equal, everyone is personally engaged.
+**Transparency:** Companies with a growth tend to lose track of what’s going on. That’s why, to avoid chaos, we’ve decided not to hire more than 30 employees. We don’t want to create corporate structures with teams within the teams. Everyone is equal, everyone is personally engaged.
 
 ### Technologies:
 
