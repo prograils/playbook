@@ -7,18 +7,18 @@ We are managing our projects according to the Scrum methodology with respect to 
 
 **Arrangements**: we make sure that our Partner is familiar with the Scrum methodology idea and its principles. If not: we’ll organize a crash course of Scrum principles and then make double sure that it’s all clear now.
 
-**Pre-development**: depending on the character of a project we have to set up some pre-development essentials. Whether it’s a settlement of a new environment or a continuation of already existing code here’s what happens:
+**Pre-development**: depending on the character of a project we have to set up some pre-development essentials. Whether it’s a settlement of a new environment or a continuation of already existing code here’s what happens when:
 
-* we’re starting a new project from the scratch
+  **a) we’re starting a new project from the scratch:**
 
-The first thing is to choose a ‘software stack’ (database, front-end libraries, etc.) and in case of mobile applications supported device modes and system versions. Expected user volume should be roughly estimated as this number has an influence on the software or hardware architecture and testing scenarios. We also have to determine geolocation like supported languages and locations. We will ask you about some additional software requirement, ie. sensitive data management and security aspects. Think you’d make use of UX/UI designer? We have them onboard too.
+  The first thing is to choose a ‘software stack’ (database, front-end libraries, etc.) and in case of mobile applications supported device modes and system versions. Expected user volume should be roughly estimated as this number has an influence on the software or hardware architecture and testing scenarios. We also have to determine geolocation like supported languages and locations. We will ask you about some additional software requirement, ie. sensitive data management and security aspects. Think you’d make use of UX/UI designer? We have them onboard too.
 
-* we’re overtaking an existing project
+  **b) we’re overtaking an existing project:**
 
-We’re starting with the code review. Always. Thorough code review is a key decision factor before taking over already existing projects. And it’s not only about us, code reviews are the double-edged sword: it reveals the actual condition and functionality of the code, points out its strengths and weaknesses, sometimes even the last chance to step back. When the code review is ready, we provide the client with the exact conclusions and further suggestions. Then comes the time of a code refactoring.
+  We’re starting with the code review. Always. Thorough code review is a key decision factor before taking over already existing projects. And it’s not only about us, code reviews are the double-edged sword: it reveals the actual condition and functionality of the code, points out its strengths and weaknesses, sometimes even the last chance to step back. When the code review is ready, we provide the client with the exact conclusions and further suggestions. Then comes the time of a code refactoring.
 
 
-**Dev lifecycle**: any code changes (except for the critical patch) can’t be put into the production server without a final approval from the client.
+**Dev lifecycle**: Developers are fully commited only to their dedicated tsaks. Once a developer is assigned to the project, a swich may be done at the express request (of a client or developer). There is, however, a general principle saying that we do not make personel movements to support newly-forming projects: first-comes, first-served.
 
 **Project Management**: the main task management tool is a Kanban board:
 
@@ -28,7 +28,7 @@ We’re starting with the code review. Always. Thorough code review is a key dec
 
 Ideally, there should be one designated person on client’s site - a decision making person we will be contacting in case of questions or doubts.
 
-Ninja patching is not allowed. Bug or feature must be reported within the main project management tool, even if already notified via alternative channel
+Ninja patching is not allowed. Bug or feature must be reported within the main project management tool, even if already notified via alternative channel. Any code changes (except for the critical patch) can’t be put into a production server without the final approval from the client.
 
 **Testing**: code is thoroughly tested, always. Developers put a code into production once it has been developed and tested. Each developer is obliged to write automated tests after delivering a functional part of the system. Our ruthless manual testers do the 2nd verification by snooping around all the time. They comb through the apps looking for bugs and unexpected features. As everyone, they do know that CSS is awesome.
 
