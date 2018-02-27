@@ -12,7 +12,7 @@ In other words? The things we do best: **Ruby on Rails, Android and iOS**.
 
 ### Values:
 
-What stands us out from the crowd are our values:
+What makes us different from the crowd are our values:
 
 **Business model:** which is personal. Our sales & growth team will never try to pitch you because, simply, we don’t have one. And never will. That’s not our style. If you want to make business, cut the crap and let’s make a business: book the time slot for a call directly with our CEO, Maciej:
 <a href="https://calendly.com/mlitwiniuk/lets-talk/" target="_blank">https://calendly.com/mlitwiniuk/lets-talk</a>
@@ -27,7 +27,7 @@ Our core-strength are Ruby on Rails, iOS, Android and Elixir.
 
 ### Pricing:
 
-We have officially published our development rate which is 50€ / hour.
+We have officially set our development rate which is 50€ / hour.
 Here you can find more details about our pricing model:
 <a href="https://prograils.com/pricing/" target="_blank">https://prograils.com/pricing/</a>
 
