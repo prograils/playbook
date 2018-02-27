@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Process
+order: 3
 ---
 
 We are managing our projects according to the Scrum methodology with respect to all its artefacts and events. We believe that the Client and the development team should work closely together. What is more, we suggest our Partners to take an active part in the whole process - this cooperation significantly increases the chances of meeting client’s expectations.

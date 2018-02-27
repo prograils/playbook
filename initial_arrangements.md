@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Initial Arrangements
+order: 2
 ---
 
 Every project is different, there is no secret formula that reveals how to manage IT projects. It all depends on your needs and expectations, we can, however, bring this process a little closer to you:

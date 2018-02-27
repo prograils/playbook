@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Who we are
+order: 1
 ---
 
 Hello, we are Prograils: Software Development and Consulting Company. We specialize in delivering bespoke, perfectly crafted solutions for individual needs.

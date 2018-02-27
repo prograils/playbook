@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Development
+order: 4
 ---
 
 Here you can find a basic set of rules and common practices used for Rails development in Prograils. If you’d like to add something, feel free to contribute (with pull request).

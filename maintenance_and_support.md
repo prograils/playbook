@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Maintenance and Support
+order: 6
 ---
 
 ### Monitoring:

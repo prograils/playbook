@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Security
+order: 5
 ---
 
 Following these simple steps should ensure that data stays secure

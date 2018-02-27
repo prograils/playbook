@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The People
+order: 7
 ---
 
 
