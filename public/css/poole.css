@@ -428,3 +428,19 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/* Custom styles */
+.masthead img {
+  margin: 0;
+  height: 31px;
+}
+.sidebar-toggle {
+  top: 1.2em;
+}
+@media (max-width: 48em) {
+  .masthead img {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
