@@ -55,7 +55,7 @@ We like spending time together also after hours, some office parties are labled 
 
 We encourage our employees to self-development, we’d be happy to finance books, e-books (each team member has his own Kindle reader) courses or conferences.
 
-Found self-improving recsources worth buying? Spread the news on our dedicated Slack channel (#self-improvement) and gather together interested ones. We'll make a purchase shortly.
+Found self-improving recsources worth buying? Spread the news on our dedicated Slack channel (`#self-improvement`) and gather together interested ones. We'll make a purchase shortly.
 
 
 ### Reward-them:
