@@ -54,3 +54,10 @@ We like spending time together also after hours, some office parties are labled 
 ### Self-development:
 
 We encourage our employees to self-development, we’d be happy to finance books, e-books (each team member has his own Kindle reader) courses or conferences.
+
+Found self-improving recsources worth buying? Spread the news on our dedicated Slack channel (#self-improvement) and gather together interested ones. We'll make a purchase shortly.
+
+
+### Reward-them:
+
+Our home-made application called 'Reward them" is a recognition and reward system which primary role is to strengthen the relationship between co-workers and cultivate team identity. Each month every team member receives an allowance (50 points, 1 point = 1 Polish Zloty). Everyone is entitled to dispense 50 points to their co-workers, so theoretically one can gain 50 points per number of team members. This amount can be a nice addition to the basic salary. We're using 'Reward them' when saying 'Thank you' just doesn't seem like enough.
