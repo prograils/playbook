@@ -34,7 +34,7 @@ Table of contents:
    7. Design
    8. Time Tracking & Invoicing
 
-4. [Chapter Four: The Development](/playbook/development)
+4. [Chapter Four: Development](/playbook/development)
    1. Git
    2. Git Workflow
    3. Code Style
