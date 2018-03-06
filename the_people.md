@@ -64,4 +64,4 @@ Our home-made application called 'Reward them' is a recognition and reward syste
 
 ### Absence:
 
-Internal absence policy is meticulously guided by our another home-made app. It's called 'Absence' and it helps us to manage our vacations. Employees are entitled to 20 day-offs. Annual leave is paid, unused leave is also covered by a financial compensation. To maintain smooth work-flow within the company, no more than 55% of the team can be out of the office at a time. Longer absence should be planned in advance (according to our policy 1 day-off = 1 week), sometimes, however, there are exceptions to the rule.
+Our internal day off policy is meticulously guided by our another home-made app. It's called 'Absence' and it helps us to manage our vacations. Employees are entitled to 20 day-offs. Annual leave is paid, unused leave is also covered by a financial compensation. To maintain smooth work-flow within the company, no more than 55% of the team can be out of the office at a time. Longer absence should be planned in advance (according to our policy 1 day-off = 1 week), sometimes, however, there are exceptions to the rule.

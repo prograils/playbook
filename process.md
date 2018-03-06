@@ -37,4 +37,4 @@ Ninja patching is not allowed. Bug or feature must be reported within the main p
 
 **Time Tracking & Invoicing**: Meet [Teamlens](https://teamlens.io){:target="_blank"}. Our homemade cloud-based management software that brings together everything you should know about your business. Teamlens tracks how much time developers dedicate to your project and controls all your costs and expenses. A full monthly report will be included to every invoice with a written status describing activities spent performing your project during the preceding period.
 
-Teamlens does not aim to control, invigilate, monitor or record anyone. This is not a timesheet that counts ones productivity or checks how many hours one spent at work. At Prograils, in trust we...trust. 
+Teamlens does not aim to control, invigilate, monitor or record anyone. This is not a timesheet that counts ones productivity or checks how many hours one spent at work. At Prograils, in trust we... trust.
