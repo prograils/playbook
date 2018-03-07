@@ -60,4 +60,8 @@ Found self-improving recsources worth buying? Spread the news on our dedicated S
 
 ### Reward-them:
 
-Our home-made application called 'Reward them" is a recognition and reward system which primary role is to strengthen the relationship between co-workers and cultivate team identity. Each month every team member receives an allowance (50 points, 1 point = 1 Polish Zloty). Everyone is entitled to dispense 50 points to their co-workers, so theoretically one can gain 50 points per number of team members. This amount can be a nice addition to the basic salary. We're using 'Reward them' when saying 'Thank you' just doesn't seem like enough.
+Our home-made application called 'Reward them' is a recognition and reward system which primary role is to strengthen the relationship between co-workers and cultivate team identity. Each month every team member receives an allowance (50 points, 1 point = 1 Polish Zloty). Everyone is entitled to dispense 50 points to their co-workers, so theoretically one can gain 50 points per number of team members. This amount can be a nice addition to the basic salary. We're using 'Reward them' when saying 'Thank you' just doesn't seem like enough.
+
+### Absence:
+
+Our internal day off policy is meticulously guided by our another home-made app. It's called 'Absence' and it helps us to manage our vacations. Employees are entitled to 20 day-offs. Annual leave is paid, unused leave is also covered by a financial compensation. To maintain smooth work-flow within the company, no more than 55% of the team can be out of the office at a time. Longer absence should be planned in advance (according to our policy 1 day-off = 1 week), sometimes, however, there are exceptions to the rule.
